@@ -10,8 +10,6 @@
 - [Business Risk](#business-risk)
 - [Project Pipeline](#project-pipeline)
 - [Technologies Used](#technologies-used)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 
 ## Problem Statement:
@@ -68,7 +66,6 @@ Using this data, the goal is to build a robust multiclass classification model t
 - `sklearn` - 1.1.2
 - `statsmodel` - 0.13.2
 - `tensorflow` - 2.11.0
-
 
 
 
